@@ -507,10 +507,10 @@ bs-platform@^4.0.6:
   resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-4.0.14.tgz#1d9e9622d59ebf4d39408d07b41997201c5f9750"
   integrity sha512-bxeMwZPnJ90r48SavF60pkzGn7heaoHn7IF7fpPdh5L8WZfCzf76AikH2zWJii4QahUeInvRN1tNPWQt3ckKJQ==
 
-bs-webapi@^0.13.1:
-  version "0.13.1"
-  resolved "https://registry.yarnpkg.com/bs-webapi/-/bs-webapi-0.13.1.tgz#71c560229f74b8db6d7c9dc75b620de71b1c388f"
-  integrity sha512-JGngSUqyTrijGWURKbQYQE/3EDFcKszftQ0tqbaRBz6RvtIU+8Z+Lksc14aMdNpxuNiHWqhvoxbHnCvFdKLZHg==
+bs-webapi@^0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/bs-webapi/-/bs-webapi-0.15.1.tgz#c09b2e0789c3124b9e97f86eb9405ac223a8c5b1"
+  integrity sha512-U+k2zPoJ6nX2yY7i+ZfIgeZf+DNZ/mF5SS2UxkdJyqKK4sRyrOJ7xF9H9SBAnWvbMkq6WbYZcJukj8vCOOWhpQ==
 
 bser@^2.0.0:
   version "2.0.0"
